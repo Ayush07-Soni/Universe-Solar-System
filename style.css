@@ -68,7 +68,7 @@ img{
 } 
  
 .mercury::before{ 
-    background-image: url("mercury.png"); 
+    background-image: url("./images/mercury.png"); 
     background-size: cover; 
     top: 1.5em; 
     right: 0.8em; 
@@ -89,7 +89,7 @@ img{
     right: 2em; 
     width: 2em; 
     height: 2em; 
-    background-image: url("venus.png"); 
+    background-image: url("./images/venus.png"); 
     background-size: cover; 
 } 
  
@@ -106,7 +106,7 @@ img{
     right: 0em; 
     width: 5em; 
     height: 5em; 
-    background-image: url("earth.png"); 
+    background-image: url("./images/earth.png"); 
     background-size: cover; 
 } 
  
@@ -123,7 +123,7 @@ img{
     right: 0.2em; 
     width: 1.2em; 
     height: 1.2em; 
-    background-image: url("moon.png"); 
+    background-image: url("./images/moon.png"); 
     background-size: cover; 
 } 
  
@@ -147,7 +147,7 @@ img{
         right:3em;
         width: 3em;
         height: 3em;
-        background-image: url("mars.png");
+        background-image: url("./images/mars.png");
         background-size: cover;
     }
 
@@ -163,7 +163,7 @@ img{
             right:3em;
             width: 5em;
             height: 5em;
-            background-image: url("jupiter.png");
+            background-image: url("./images/jupiter.png");
             background-size: cover;
         }
 
@@ -179,7 +179,7 @@ img{
                 right: 5em;
                 width: 4.5em;
                 height: 4.5em;
-                background-image: url("saturn.png");
+                background-image: url("./images/saturn.png");
                 background-size: cover;
             }
 
@@ -195,7 +195,7 @@ img{
                     right: 6.5em;
                     width: 4em;
                     height: 4em;
-                    background-image: url("uranus.png");
+                    background-image: url("./images/uranus.png");
                     background-size: cover;
                 }
 
@@ -211,7 +211,7 @@ img{
                         right: 8em;
                         width: 4em;
                         height: 4em;
-                        background-image: url("neptune.png");
+                        background-image: url("./images/neptune.png");
                         background-size: cover;
                     }
 
@@ -227,7 +227,7 @@ img{
                             right: 10em;
                             width: 4em;
                             height: 4em;
-                            background-image: url("pluto.png");
+                            background-image: url("./images/pluto.png");
                             background-size: cover;
                         }
         
